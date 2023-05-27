@@ -5,6 +5,6 @@ const nextConfig = {
 
 module.exports = {
   env: {
-    API: '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',
+    API: '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',
   },
 };
